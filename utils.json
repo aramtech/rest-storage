@@ -1,0 +1,23 @@
+{
+    "name": "rest-storage",
+    "deps": {
+        "rest-log": {
+            "owner": "aramtech",
+            "repo": "rest-log",
+            "update_policy": "major",
+            "version": "0.1.0"
+        },
+        "rest-ObjectError": {
+            "owner": "aramtech",
+            "repo": "rest-ObjectError",
+            "update_policy": "major",
+            "version": "0.1.0"
+        }
+    },
+    "owner": "aramtech",
+    "private": false,
+    "public_repo": false,
+    "hash": "vFaoOyGvWF9AHBBuF1bLbEImCJuU8D83v92lizPzpI0",
+    "version": "0.2.3",
+    "description": ""
+}
